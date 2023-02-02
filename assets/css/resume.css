@@ -426,6 +426,7 @@ h3 {
   }
   .contact{
     font-size: 0.7em !important;
+    word-wrap: break-word;
   }
   .func{
     font-size: 0.7em !important;
@@ -443,5 +444,8 @@ h3 {
   }
   .info .name{
     font-size: 1.2em !important;
+  }
+  .contact{
+    word-wrap: break-word;
   }
 } 
